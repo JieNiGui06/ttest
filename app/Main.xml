@@ -1,0 +1,15 @@
+﻿<project version="2.9" name="项目" ID="FE47DDEE-FA01-4C8A-ABC6-D29A680F2CE9">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="80DF762B-A377-4E50-8CED-8F5A3594A733" expanded="True" code="mRHcoRjUmo" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images/>
+</project>
